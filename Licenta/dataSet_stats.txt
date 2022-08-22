@@ -1,0 +1,6 @@
+Minim = 35.793999
+Maxim = 1229.910034
+Amplitudine = 597.0580175
+Deviatie standard = 333.27585939220063
+Coeficient de aplatizare = -0.3048388059474836
+Coeficient de simetrie = 1.07241195998628
