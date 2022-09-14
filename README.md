@@ -26,7 +26,6 @@ How to use:
 
 
 pics:
-
-![image](https://user-images.githubusercontent.com/73346539/190198055-f4f2e14e-5852-49a1-932f-70e1ace7adf4.png)
+![image](https://user-images.githubusercontent.com/73346539/190199257-c07ea688-eb67-4ad7-a1ab-ac611fcdf2e5.png)
 ![image](https://user-images.githubusercontent.com/73346539/190198269-c5d0ba28-90e1-491b-a301-4c46473b141e.png)
 ![image](https://user-images.githubusercontent.com/73346539/190199074-4a0a51d5-d4a0-4431-9401-9ee85dd905d7.png)
