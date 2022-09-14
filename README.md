@@ -4,6 +4,10 @@ This app was made for my banchelor's thesis degree. It's in romanian language, s
 The predictions are made using ML scripts for regression. Forecasting techniques used are: Linear Regression, KNN, AUTO-ARIMA and LSTM.
 This app is made to predict the next day of the current/selected .csv price history using the closing price or 'Close' column.
 
+Made using Flask.
+
+Also, the background is an animation using css with @keyframes.
+
 NOTE: The app is made for scientific research for my Bachelor's Thesis, so DO NOT EXPECT REAL PREDICTIONS.(even that lstm had some good results)
 
 BEFORE RUN:
@@ -21,5 +25,8 @@ How to use:
 3. Wait and then see the results!
 
 
-BUGS KNOWN:
-I don't know why but sometimes(and especially on other computers) the program cannot read the numpy module, even that it's installed and it's working well, so it might crash. You could run the desired ML algotihm script solo and it will work well.
+pics:
+
+![image](https://user-images.githubusercontent.com/73346539/190198055-f4f2e14e-5852-49a1-932f-70e1ace7adf4.png)
+![image](https://user-images.githubusercontent.com/73346539/190198269-c5d0ba28-90e1-491b-a301-4c46473b141e.png)
+![image](https://user-images.githubusercontent.com/73346539/190199074-4a0a51d5-d4a0-4431-9401-9ee85dd905d7.png)
