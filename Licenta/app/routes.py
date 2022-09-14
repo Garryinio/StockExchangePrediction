@@ -1,7 +1,7 @@
 import csv
 import os
 import time
-
+import numpy
 import pandas as pd
 import wget
 from flask import render_template, redirect, url_for, request
